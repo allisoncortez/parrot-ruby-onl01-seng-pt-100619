@@ -3,9 +3,9 @@
 
 def parrot(phrase = "Squawk!")
   parrot_phrase = "#{phrase}"
-  
-  parrot
 end
+
+parrot
   
 
 
